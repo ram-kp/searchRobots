@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/searchRobots/static/css/main.e517aa87.chunk.css",
+    "main.js": "/searchRobots/static/js/main.be0564fc.chunk.js",
+    "main.js.map": "/searchRobots/static/js/main.be0564fc.chunk.js.map",
+    "runtime-main.js": "/searchRobots/static/js/runtime-main.b035e11e.js",
+    "runtime-main.js.map": "/searchRobots/static/js/runtime-main.b035e11e.js.map",
+    "static/js/2.425af3f9.chunk.js": "/searchRobots/static/js/2.425af3f9.chunk.js",
+    "static/js/2.425af3f9.chunk.js.map": "/searchRobots/static/js/2.425af3f9.chunk.js.map",
+    "static/js/3.998f0c43.chunk.js": "/searchRobots/static/js/3.998f0c43.chunk.js",
+    "static/js/3.998f0c43.chunk.js.map": "/searchRobots/static/js/3.998f0c43.chunk.js.map",
+    "index.html": "/searchRobots/index.html",
+    "static/css/main.e517aa87.chunk.css.map": "/searchRobots/static/css/main.e517aa87.chunk.css.map",
+    "static/js/2.425af3f9.chunk.js.LICENSE.txt": "/searchRobots/static/js/2.425af3f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b035e11e.js",
+    "static/js/2.425af3f9.chunk.js",
+    "static/css/main.e517aa87.chunk.css",
+    "static/js/main.be0564fc.chunk.js"
+  ]
+}
